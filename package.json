@@ -1,0 +1,14 @@
+{
+  "name": "npm-demo",
+  "version": "1.0.0",
+  "description": "This is a test for how to use node/npm.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "guowj12@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "server": "^1.0.19"
+  }
+}
